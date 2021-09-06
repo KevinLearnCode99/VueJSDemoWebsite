@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/VueJSDemoWebsite/static/css/main.8b2001d2.chunk.css",
+    "main.js": "/VueJSDemoWebsite/static/js/main.08e23d27.chunk.js",
+    "main.js.map": "/VueJSDemoWebsite/static/js/main.08e23d27.chunk.js.map",
+    "runtime-main.js": "/VueJSDemoWebsite/static/js/runtime-main.f078c2af.js",
+    "runtime-main.js.map": "/VueJSDemoWebsite/static/js/runtime-main.f078c2af.js.map",
+    "static/js/2.589c2878.chunk.js": "/VueJSDemoWebsite/static/js/2.589c2878.chunk.js",
+    "static/js/2.589c2878.chunk.js.map": "/VueJSDemoWebsite/static/js/2.589c2878.chunk.js.map",
+    "static/js/3.e43814cb.chunk.js": "/VueJSDemoWebsite/static/js/3.e43814cb.chunk.js",
+    "static/js/3.e43814cb.chunk.js.map": "/VueJSDemoWebsite/static/js/3.e43814cb.chunk.js.map",
+    "index.html": "/VueJSDemoWebsite/index.html",
+    "static/css/main.8b2001d2.chunk.css.map": "/VueJSDemoWebsite/static/css/main.8b2001d2.chunk.css.map",
+    "static/js/2.589c2878.chunk.js.LICENSE.txt": "/VueJSDemoWebsite/static/js/2.589c2878.chunk.js.LICENSE.txt",
+    "static/media/brands.css": "/VueJSDemoWebsite/static/media/fa-brands-400.d878b0a6.woff2",
+    "static/media/solid.css": "/VueJSDemoWebsite/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f078c2af.js",
+    "static/js/2.589c2878.chunk.js",
+    "static/css/main.8b2001d2.chunk.css",
+    "static/js/main.08e23d27.chunk.js"
+  ]
+}
