@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    
+    padding: 73px 50px;
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.navigation-option{
+    width: 500px;
+    height: 50px;
+    background-color: #35495E;
+    border-radius: 15px ;
+    padding: auto;
+    display: flex;
+    position: relative;
+    margin-right: 100px;
+    
+   
+}
+
+.logo i {
+    margin: 0 10px;
+    font-size: 2rem;
+}
+.logo{
+    padding:8px 0px;
+}
+.option{
+    width: 125px;
+    padding:16px 0px;
+    
+}
+
+#home {
+    display: block;
+    margin: 0.75px 0;
+    margin-left: 0.75px;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px ;
+
+}
+
+#course,#blog,#contact,#youtube{
+    display: block;
+    text-align: center;
+}
+
+
+#youtube{
+    position: absolute;
+    right:-100px;
+    bottom: 0;
+    top: 0;
+    background-color: red;
+    border-radius: 15px ;
+    
+}
+ .option .fa-youtube{
+    background-color: red;
+    color: white;
+    font-size: 1.5rem;
+    position: absolute;
+    top:50%;
+    transform: translateY(-50%);
+    left:5px;
+}
+
+
+@media (max-width: 700px){
+    .navigation-option{
+        width: 350px;
+    }
+}

@@ -1,0 +1,74 @@
+.banner{
+    width: 100vw;
+    height: 400px;
+    background-image: linear-gradient(to right ,#42B883,#35495E);
+    position: relative;
+}
+.content{
+    position: absolute;
+    right: 250px;
+    top:100px;
+    font-size: 2rem;
+}
+
+.content button{
+    height: 35px;
+    width: 170px;
+    border-radius: 15px;
+    border: 0px;
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+.fa-vuejs{
+    margin-left: 2px;
+    font-size: 25px;
+    line-height: 23px;
+}
+
+.content-element{
+    margin: 12px
+}
+
+.big-img {
+    font-size: 10rem;
+    
+    color: #42B883;
+    position: absolute;
+    left:-100px;
+    top: 195px;
+
+
+}
+.small-img-container{
+    
+    display: flex;
+    position: absolute;
+    top: 221px;
+    left:70px;
+    flex-wrap: nowrap;
+    
+    
+    
+}
+.small-img{
+    font-size: 7rem;
+    margin: 0px 22px;
+}
+
+
+
+@media (max-width: 700px){
+    .content{
+        right: 120px;
+        top: 50px;
+    }
+    .big-img{
+        left:-20px;
+        top:210px;
+        font-size:5rem;
+    }
+    .small-img{
+        font-size: 4rem;
+    }
+}
